@@ -1,4 +1,4 @@
-# Python-Programming-internship-by-CodSoft
+# Python-Programming-Internship-by-CodSoft
 Congratulations on successfully completing my Python programming internship at CodSoft! Throughout this internship, I've showcased a solid understanding of Python programming concepts and applied them to a variety of tasks. Let's take a moment to reflect on the key accomplishments and projects I've undertaken during my time at CodSoft.
 
 **To-Do List Program:**
